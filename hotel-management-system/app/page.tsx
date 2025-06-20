@@ -1,10 +1,18 @@
+'use client'; // Make this a client component
+
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
+import { useTranslation } from 'react-i18next';
+import LanguageSelector from '@/components/language-selector'; // Adjusted path
 
 export default function Home() {
+  const { t } = useTranslation('common');
+
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-blue-500">
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start text-red-500">
+        <LanguageSelector />
+        <h1 className="text-4xl font-bold text-center text-white my-4">{t('welcomeMessage')}</h1>
         <Image
           className="dark:invert"
           src="/next.svg"
