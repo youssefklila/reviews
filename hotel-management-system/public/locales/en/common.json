@@ -10,5 +10,17 @@
   "loading": "Loading...",
   "noRecentActivity": "No recent activity.",
   "newReviewNotification": "New review submitted for Room {{roomNumber}}.",
-  "userRegisteredNotification": "New user registered: {{username}}."
+  "userRegisteredNotification": "New user registered: {{username}}.",
+  "filterByRating": "Filter by Rating (1-10)",
+  "filterByRoom": "Filter by Room Number",
+  "searchReviews": "Search Reviews (name, suggestions)",
+  "applyFilters": "Apply Filters & Search",
+  "clearFilters": "Clear Filters",
+  "fullName": "Full Name",
+  "rating": "Rating",
+  "roomNumber": "Room No.",
+  "nationality": "Nationality",
+  "suggestions": "Suggestions",
+  "actions": "Actions",
+  "noReviewsFound": "No reviews found matching your criteria."
 }
