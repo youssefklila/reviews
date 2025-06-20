@@ -10,5 +10,17 @@
   "loading": "Chargement...",
   "noRecentActivity": "Aucune activité récente.",
   "newReviewNotification": "Nouvel avis soumis pour la chambre {{roomNumber}}.",
-  "userRegisteredNotification": "Nouvel utilisateur enregistré : {{username}}."
+  "userRegisteredNotification": "Nouvel utilisateur enregistré : {{username}}.",
+  "filterByRating": "Filtrer par Note (1-10)",
+  "filterByRoom": "Filtrer par Numéro de Chambre",
+  "searchReviews": "Rechercher dans les Avis (nom, suggestions)",
+  "applyFilters": "Appliquer Filtres & Recherche",
+  "clearFilters": "Effacer les Filtres",
+  "fullName": "Nom Complet",
+  "rating": "Note",
+  "roomNumber": "N° Chambre",
+  "nationality": "Nationalité",
+  "suggestions": "Suggestions",
+  "actions": "Actions",
+  "noReviewsFound": "Aucun avis trouvé correspondant à vos critères."
 }
