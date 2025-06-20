@@ -1,0 +1,14 @@
+{
+  "welcomeMessage": "Welcome to Jules Hotel Management",
+  "adminDashboard": "Admin Dashboard",
+  "greeting": "Hello there!",
+  "changeToFrench": "Change to French",
+  "changeToEnglish": "Change to English",
+  "totalReviews": "Total Reviews",
+  "averageRating": "Average Rating",
+  "recentActivity": "Recent Activity",
+  "loading": "Loading...",
+  "noRecentActivity": "No recent activity.",
+  "newReviewNotification": "New review submitted for Room {{roomNumber}}.",
+  "userRegisteredNotification": "New user registered: {{username}}."
+}

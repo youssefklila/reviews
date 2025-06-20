@@ -1,0 +1,14 @@
+{
+  "welcomeMessage": "Bienvenue chez Jules Hotel Management",
+  "adminDashboard": "Tableau de bord administrateur",
+  "greeting": "Bonjour!",
+  "changeToFrench": "Passer en français",
+  "changeToEnglish": "Passer en anglais",
+  "totalReviews": "Total des Avis",
+  "averageRating": "Note Moyenne",
+  "recentActivity": "Activité Récente",
+  "loading": "Chargement...",
+  "noRecentActivity": "Aucune activité récente.",
+  "newReviewNotification": "Nouvel avis soumis pour la chambre {{roomNumber}}.",
+  "userRegisteredNotification": "Nouvel utilisateur enregistré : {{username}}."
+}
